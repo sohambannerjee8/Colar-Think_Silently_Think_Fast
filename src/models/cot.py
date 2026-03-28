@@ -59,3 +59,5 @@ class LitCot(LitCoTModelBase):
         return {
             "total_loss": outputs.loss,
         }
+
+LitCoT = LitCot  # alias for checkpoint compatibility

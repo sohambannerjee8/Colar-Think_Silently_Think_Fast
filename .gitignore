@@ -14,3 +14,8 @@ temp*
 wandb
 logs
 checkpoints
+
+# large local assets (models, datasets, pretrained weights)
+venv/
+pretrained/
+workspace/
