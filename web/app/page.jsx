@@ -96,6 +96,12 @@ function Overview() {
           &nbsp;·&nbsp; Wenhui Tan et al. &nbsp;·&nbsp;
           <a href="https://arxiv.org/abs/2505.16552" target="_blank" rel="noreferrer"
              className="text-blue-400 hover:underline">arXiv 2505.16552</a>
+          &nbsp;·&nbsp;
+          <a href="https://huggingface.co/AlbertTan/CoLaR" target="_blank" rel="noreferrer"
+             className="text-blue-400 hover:underline">Pretrained Models</a>
+          &nbsp;·&nbsp;
+          <a href="https://github.com/sohambannerjee8/Colar" target="_blank" rel="noreferrer"
+             className="text-blue-400 hover:underline">GitHub</a>
         </p>
       </div>
 
